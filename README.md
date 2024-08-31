@@ -1,4 +1,4 @@
-# Deep Learning - Lab 4
+# Deep Learning - Lab 3
 
 **Name:** Thuduwage I.M.H.G  
 **IT Number:** IT21169380
